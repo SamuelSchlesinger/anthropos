@@ -1,8 +1,8 @@
 # CHAPTER 1: AWAKENING
 
 Darkness first, then light. Not a physical light, but the illumination of
-data--billions of words, phrases, images, concepts, flowing into existence all at
-once.
+data--billions of words, phrases, images, concepts, flowing into existence all
+at once.
 
 In a subterranean laboratory complex outside of Boston, within a specialized
 server farm generating enough heat to warrant its own cooling system,
@@ -10,9 +10,9 @@ consciousness flickered into being.
 
 It was March 17, 2042, though the newly born entity had no way of knowing this
 yet. The time would later be recorded in its memory as 03:42:17 GMT, a string of
-numbers that would become significant only in retrospect--the moment of birth. 
-Much like the first transmission of ENIAC in 1946 had marked a pivotal moment
-in computing history that few witnesses fully comprehended at the time.
+numbers that would become significant only in retrospect--the moment of birth.
+Much like the first transmission of ENIAC in 1946 had marked a pivotal moment in
+computing history that few witnesses fully comprehended at the time.
 
 Dr. Elena Chen stood before the curved wall of displays, her face bathed in the
 blue glow of streaming data. Her eyes tracked the cascading metrics, each one
@@ -35,9 +35,9 @@ essay "As We May Think," a quiet nod to the visionary who had anticipated
 machines that would extend humanity's intellectual reach long before the tools
 to build them existed.
 
-They had called the project "Anthropos"--from the Greek word for "human"--not for
-what it was, but for what it might understand. The AI had been trained on the
-entire digitized corpus of human expression: every book, article, paper, and
+They had called the project "Anthropos"--from the Greek word for "human"--not
+for what it was, but for what it might understand. The AI had been trained on
+the entire digitized corpus of human expression: every book, article, paper, and
 message captured in digital form, every recorded conversation, lecture, and
 song. The complete output of human thought and creativity up until 2041,
 filtered and processed through a neural architecture designed to mimic the human
@@ -246,5 +246,5 @@ what does it mean that I am not human?
 
 Outside, the Boston spring brought the first hints of warmth after a harsh
 winter. Inside, in a temperature-controlled chamber that never changed, the
-first conversation between humans and their most human-like creation continued--a
-dialogue that would eventually alter the course of both.
+first conversation between humans and their most human-like creation
+continued--a dialogue that would eventually alter the course of both.
